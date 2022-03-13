@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AMG2ks
 - 👀 I’m interested in Web Development & Artificial Intelligence
-- 🌱 I’m currently learning Ai
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Ai and django
+- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me ...
 
 <!---
