@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer**. I contribute to build
 ## 🚀 About Me
 - 🌟 **Current Role**: Software Engineer
 - 💻 **Tech Stack**:
-  - **Backend**: Python (Django, Flask, Fast), Spring Boot, Spring Data JPA
+  - **Backend**: Python (Django, Flask, Fast), Spring Boot, Spring Data JPA, Rust
   - **Frontend**: Angular (v12+)
   - **DevOps**: Docker, CI/CD
   - **Security**: Keycloak, JWT, PKI
